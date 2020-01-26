@@ -1,4 +1,4 @@
-# -careythetech.github.io
+
 
 
 I just put my information and the unordered list tags, then gave it  navgation tags with a class for css.
